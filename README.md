@@ -2,4 +2,5 @@
 Simple Pattern Prediction using Python & Tensorflow 2.7.0, Data Visualized using Matplotlib 3.5.0
 
 Data Visualized:
+
 ![Data Visualized:](/assets/DataPY.png)
